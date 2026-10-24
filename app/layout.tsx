@@ -3,7 +3,6 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://t3kit.com"),
   title: "T3Kit Ecosystem | Learn, Play, Build & Explore Web3",
   description: "Discover the T3Kit Ecosystem — a gateway to Web3 learning, gaming, tools, and opportunities. Built from Africa for the next generation of the decentralized internet.",
   applicationName: "T3Kit Ecosystem",
